@@ -1,5 +1,5 @@
 {
-    "name": "Bastardized",
+    "name": "Basterdized",
     "colors": {
         "editor.background": "#1E1F20",
         "editor.foreground": "#839496",
@@ -320,7 +320,14 @@
         },
         {
             "name": "Variable, Property",
-            "scope": "variable.property,variable.other.property,variable.other.object.property,variable.object.property,support.variable.property",
+            "scope": [
+                "variable.property",
+                "variable.other.property",
+                "variable.other.object.property",
+                "variable.object.property",
+                "support.variable.property",
+                "support.type.property-name"
+            ],
             "settings": {
                 "foreground": "#6c71c4"
             }
