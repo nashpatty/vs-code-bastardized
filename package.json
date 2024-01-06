@@ -17,19 +17,9 @@
         "path": "./themes/Bastardized-color-theme.json"
       },
       {
-        "label": "Bastardized Blue",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Bastardized-blue-color-theme.json"
-      },
-      {
         "label": "Bastardized Sans Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/Bastardized-no-italic-color-theme.json"
-      },
-      {
-        "label": "Bastardized Blue Sans Italic",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Bastardized-blue-no-italic-color-theme.json"
       }
     ]
   }
