@@ -1,5 +1,5 @@
 {
-    "name": "Bastardized",
+    "name": "Bastardized Blue Sans Italic",
     "colors": {
         "editor.background": "#1E1F20",
         "editor.foreground": "#839496",
@@ -173,16 +173,14 @@
             "name": "Comment",
             "scope": "comment",
             "settings": {
-                "foreground": "#586e75",
-                "fontStyle": "italic"
+                "foreground": "#586e75"
             }
         },
         {
             "name": "block comment",
             "scope": "comment.block",
             "settings": {
-                "foreground": "#586e75",
-                "fontStyle": "italic"
+                "foreground": "#586e75"
             }
         },
         {
@@ -308,21 +306,21 @@
             "name": "Annotations",
             "scope": ["storage.type.annotation", "entity.name.type.annotation"],
             "settings": {
-                "foreground": "#268bd2"
+                "foreground": "#b58900"
             }
         },
         {
             "name": "Class constructor",
             "scope": "class.instance.constructor,new.expr entity.name.type",
             "settings": {
-                "foreground": "#b58900"
+                "foreground": "#268bd2"
             }
         },
         {
             "name": "Function",
             "scope": "support.function, entity.name.function",
             "settings": {
-                "foreground": "#b58900"
+                "foreground": "#268bd2"
             }
         },
         {
@@ -414,7 +412,7 @@
             "name": "TypeScript Method Declaration",
             "scope": "function-declaration,method-declaration,method-overload-declaration,type-fn-type-parameters",
             "settings": {
-                "foreground": "#b58900"
+                "foreground": "#268bd2"
             }
         },
         {
@@ -512,7 +510,7 @@
             "name": "Regex Group/Set",
             "scope": "punctuation.definition.group.regexp,punctuation.definition.character-class.regexp",
             "settings": {
-                "foreground": "#b58900"
+                "foreground": "#268bd2"
             }
         },
         {
@@ -554,7 +552,7 @@
             "name": "CSS Property-value",
             "scope": "property-list.property-value,property-list.constant",
             "settings": {
-                "foreground": "#b58900"
+                "foreground": "#268bd2"
             }
         },
         {
@@ -582,7 +580,7 @@
             "name": "CSS Property-value function",
             "scope": "property-list.property-value.function",
             "settings": {
-                "foreground": "#b58900"
+                "foreground": "#268bd2"
             }
         },
         {
@@ -652,7 +650,7 @@
             "name": "PHP variables",
             "scope": ["support.variable.property.php"],
             "settings": {
-                "foreground": "#b58900"
+                "foreground": "#268bd2"
             }
         }
     ]

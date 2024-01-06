@@ -1,5 +1,5 @@
 {
-    "name": "Bastardized",
+    "name": "Bastardized Sans Italic",
     "colors": {
         "editor.background": "#1E1F20",
         "editor.foreground": "#839496",
@@ -173,16 +173,14 @@
             "name": "Comment",
             "scope": "comment",
             "settings": {
-                "foreground": "#586e75",
-                "fontStyle": "italic"
+                "foreground": "#586e75"
             }
         },
         {
             "name": "block comment",
             "scope": "comment.block",
             "settings": {
-                "foreground": "#586e75",
-                "fontStyle": "italic"
+                "foreground": "#586e75"
             }
         },
         {
