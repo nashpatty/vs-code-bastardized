@@ -2,7 +2,13 @@
   "name": "basterdized",
   "displayName": "Basterdized",
   "description": "Solarized, but *darker*, with purposeful token highlighting.",
-  "version": "0.0.1",
+  "icon": "images/icon.png",
+  "version": "1.0.0",
+  "publisher": "nashpatty",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nashpatty/vscode-darcula.git"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
