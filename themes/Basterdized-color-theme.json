@@ -1,5 +1,5 @@
 {
-    "name": "Bastardized Sans Italic",
+    "name": "Basterdized",
     "colors": {
         "editor.background": "#1E1F20",
         "editor.foreground": "#839496",
@@ -12,8 +12,8 @@
         "editorBracketHighlight.unexpectedBracket.foreground": "#BC3F3C",
         "editor.wordHighlightBackground": "#32593D66",
         "editor.wordHighlightStrongBackground": "#532B2E66",
-        "editorIndentGuide.background1": "#586e754d",
-        "editorIndentGuide.activeBackground1": "#586e75bf",
+        "editorIndentGuide.background1": "#586e7533",
+        "editorIndentGuide.activeBackground1": "#586e75b3",
         "editorRuler.foreground": "#586e754d",
         "editor.findMatchBackground": "#732b0d99",
         "editor.findMatchHighlightBackground": "#424d0099",
@@ -173,7 +173,8 @@
             "name": "comments",
             "scope": ["comment", "punctuation.definition.comment"],
             "settings": {
-                "foreground": "#586e75"
+                "foreground": "#586e75",
+                "fontStyle": "italic"
             }
         },
         {

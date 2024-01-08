@@ -1,6 +1,6 @@
 {
-  "name": "bastardized",
-  "displayName": "Bastardized",
+  "name": "basterdized",
+  "displayName": "Basterdized",
   "description": "Solarized, but *darker*, with purposeful token highlighting.",
   "version": "0.0.1",
   "engines": {
@@ -12,14 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Bastardized",
+        "label": "Basterdized",
         "uiTheme": "vs-dark",
-        "path": "./themes/Bastardized-color-theme.json"
-      },
-      {
-        "label": "Bastardized Sans Italic",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Bastardized-no-italic-color-theme.json"
+        "path": "./themes/Basterdized-color-theme.json"
       }
     ]
   }
