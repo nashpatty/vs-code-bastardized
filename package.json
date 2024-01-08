@@ -7,7 +7,7 @@
   "publisher": "nashpatty",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nashpatty/vs-code-bastardized.git"
+    "url": "https://github.com/nashpatty/vs-code-basterdized.git"
   },
   "engines": {
     "vscode": "^1.85.0"
